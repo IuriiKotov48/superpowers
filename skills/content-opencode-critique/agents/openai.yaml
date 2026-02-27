@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCode Content"
+  short_description: "Delegate content critique and polishing to OpenCode"
+  default_prompt: "Delegate bounded content-generation support tasks to OpenCode with role-based critic runs, collect structured DONE/BLOCKED reports, and keep final publishing decisions in Codex."

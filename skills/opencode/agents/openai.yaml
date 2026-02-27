@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCode"
+  short_description: "Delegate mechanical tasks via OpenCode"
+  default_prompt: "Delegate bounded mechanical tasks to OpenCode in the current repository, enforce strict git + allowlist boundaries, and return DONE/BLOCKED with WORKDIR/MODEL audit fields."

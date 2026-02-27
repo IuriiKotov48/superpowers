@@ -1,0 +1,10 @@
+{
+  "factual_critic": "openrouter/deepseek/deepseek-v3.2",
+  "clarity_critic": "kimi-for-coding/k2p5",
+  "voice_critic": "kimi-for-coding/k2p5",
+  "hook_critic": "openrouter/z-ai/glm-4.7-flash",
+  "risk_critic": "kimi-for-coding/kimi-k2-thinking",
+  "generic_detector": "openrouter/openai/gpt-5-nano",
+  "rhythm_analyzer": "openrouter/z-ai/glm-4.7-flash",
+  "personal_anchor_critic": "openrouter/deepseek/deepseek-v3.2"
+}
